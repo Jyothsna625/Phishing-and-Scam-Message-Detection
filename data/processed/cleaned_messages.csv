@@ -1,0 +1,161 @@
+label,channel,message,cleaned_message
+phishing,sms,URGENT: Your bank account has been temporarily suspended due to suspicious activity. Verify your identity immediately at http://secure-bank-verify-login.com,urgent bank account temporarily suspended suspicious activity verify identity immediately urllink
+phishing,sms,"Congratulations! You have been selected as the lucky winner of a $1,000 Walmart gift card. Click http://claim-prize-now.biz to claim before midnight!",congratulations selected lucky winner moneyamount walmart gift card click urllink claim midnight
+phishing,email,"Dear Customer, Your PayPal account access is limited. Confirm your password and billing details within 24 hours at https://paypal-security-update-check.com",dear customer paypal account access limited confirm password billing details 24 hours urllink
+phishing,sms,FINAL NOTICE: Your KYC verification has expired. Update your PAN and bank details at http://kyc-update-alert.in or your SIM will be blocked today.,final notice kyc verification expired update pan bank details urllink sim blocked today
+phishing,email,Your Netflix subscription payment failed. Update your credit card information immediately to avoid service interruption: http://netflix-billing-renew.info,netflix subscription payment failed update credit card information immediately avoid service interruption urllink
+phishing,sms,FedEx Alert: Your package #FX9281 is held at customs. Pay the $2.99 clearance fee here: http://fedex-track-fee.com,fedex alert package fx9281 held customs pay moneyamount clearance fee urllink
+phishing,chat,Hey! Check out this crypto airdrop giving 2 ETH free for verified wallets. Connect your recovery phrase at http://eth-bonus-claim.io,hey check crypto airdrop giving eth free verified wallets connect recovery phrase urllink
+phishing,email,IT Helpdesk: Your corporate email password expires in 2 hours. Keep your current password by logging into http://mail-auth-reset-portal.com,helpdesk corporate email password expires hours current password logging urllink
+phishing,sms,ALERT: Unusual sign-in detected on your SBI YONO account. Click http://sbi-yono-kyc-help.com to block this transaction.,alert unusual signin detected sbi yono account click urllink block transaction
+phishing,email,You have a pending tax refund of $642.50 from the IRS. Submit your SSN and bank routing number at http://irs-refund-claim-form.org,pending tax refund moneyamount irs submit ssn bank routing number urllink
+phishing,sms,Free entry! Win a brand new iPhone 16 Pro in our weekly raffle. Reply WIN or visit http://iphone-giveaway-fast.co,free entry win brand new iphone 16 pro weekly raffle reply win visit urllink
+phishing,email,Amazon Security Warning: An unauthorized purchase of $899 was attempted. Cancel order now at https://amazon-order-verify-help.net,amazon security warning unauthorized purchase moneyamount attempted cancel order urllink
+phishing,sms,Your electricity bill is overdue and power will be disconnected tonight at 9 PM. Call +1-800-555-0199 or pay via http://power-bill-pay-now.com,electricity overdue power disconnected tonight pm phonenum pay urllink
+phishing,chat,Earn $500 daily working from home! No experience needed. Send your WhatsApp number and registration fee of $25 to start today.,earn moneyamount daily working home no experience needed send whatsapp number registration fee moneyamount start today
+phishing,email,Microsoft Account Team: Unusual sign-in from Russia. Review activity and reset credentials here: http://ms-account-security-check.ru,microsoft account team unusual signin russia review activity reset credentials urllink
+phishing,sms,HDFC Bank: Your debit card is blocked. Re-activate immediately by entering your PIN and CVV at http://hdfc-card-unblock.info,hdfc bank debit card blocked reactivate immediately entering pin cvv urllink
+phishing,email,Docusign Notification: HR shared Confidential_Salary_Bonus.pdf with you. Sign in with your work email password at http://docs-view-secure.co,docusign notification hr shared confidentialsalarybonuspdf sign work email password urllink
+phishing,sms,"Congratulations! Your mobile number won 50,000 cash prize. Send processing charge of Rs 999 to claim immediately.",congratulations mobile number won 50000 cash prize send processing charge rs 999 claim immediately
+phishing,email,Apple ID Locked: For your protection your Apple ID is disabled. Unlock it now at https://appleid-verify-support-center.com,apple id locked protection apple id disabled unlock urllink
+phishing,sms,USPS: Your parcel cannot be delivered due to incomplete address. Confirm address and card details at http://usps-redeliver-info.com,usps parcel cannot delivered incomplete address confirm address card details urllink
+phishing,chat,"Hi, this is your CEO in a meeting. I need you to urgently buy 5 Apple gift cards and send me the codes right away. Keep this confidential.",hi ceo meeting need urgently buy apple gift cards send codes right away confidential
+phishing,email,"Chase Bank Alert: We noticed a wire transfer of $2,400. If this wasn't you, verify your account login at http://chase-fraud-alert-desk.com",chase bank alert noticed wire transfer moneyamount wasnt verify account login urllink
+phishing,sms,"You are pre-approved for an instant $10,000 personal loan with zero credit check! Apply in 60 seconds: http://fast-cash-loan-online.biz",preapproved instant moneyamount personal loan zero credit check apply 60 seconds urllink
+phishing,email,LinkedIn Security: Someone viewed your profile and sent an urgent message. Log in to view at http://linkedin-msg-portal.xyz,linkedin security viewed profile sent urgent message log view urllink
+phishing,sms,"Airtel Reward: You earned 4,999 reward points worth $150 expiring today! Redeem now at http://airtel-points-gift.com",airtel reward earned 4999 reward points worth moneyamount expiring today redeem urllink
+phishing,email,Dropbox: Your cloud storage is full and files will be deleted in 12 hours. Upgrade free at http://dropbox-storage-renew.net,dropbox cloud storage files deleted 12 hours upgrade free urllink
+phishing,sms,URGENT: A warrant has been issued in your name for unpaid toll fees. Settle $18.50 immediately at http://ezpass-toll-settlement.com,urgent warrant issued unpaid toll fees settle moneyamount immediately urllink
+phishing,chat,Double your Bitcoin in 24 hours! Guaranteed 200% return backed by AI trading bots. Deposit minimum 0.05 BTC to our verified pool.,double bitcoin 24 hours guaranteed 200 return backed ai trading bots deposit minimum 005 btc verified pool
+phishing,email,Google Workspace Admin: Your mailbox quota is exceeded. Validate your password to receive incoming emails: http://gsuite-quota-fix.com,google workspace admin mailbox quota exceeded validate password receive incoming emails urllink
+phishing,sms,Your WhatsApp verification code was requested. Confirm ownership so your account is not deleted: http://wa-verify-account-now.com,whatsapp verification code requested confirm ownership account not deleted urllink
+phishing,email,Wells Fargo: Mandatory security upgrade required. Download the attached form and enter your PIN and online banking password.,wells fargo mandatory security upgrade required download attached form enter pin online banking password
+phishing,sms,Grab your exclusive 95% discount voucher on designer watches today only! Pay shipping at http://luxury-deal-flash.shop,grab exclusive 95 discount voucher designer watches today pay shipping urllink
+phishing,email,Zoom Meeting Notice: You missed an important HR disciplinary meeting. Watch the recording by signing in at http://zoom-hr-recording.co,zoom meeting notice missed important hr disciplinary meeting watch recording signing urllink
+phishing,sms,ICICI Alert: Your netbanking password expires today. Update immediately at http://icici-netbank-update.in to prevent lock.,icici alert netbanking password expires today update immediately urllink prevent lock
+phishing,chat,"Hello dear friend, I am a bank manager with an unclaimed $4.5M inheritance fund. Reply with your full name and bank account to split 50%.",hello dear friend bank manager unclaimed moneyamount inheritance fund reply bank account split 50
+phishing,email,DHL Express: Duty tax unpaid on shipment #99412. Settle $4.20 online at http://dhl-customs-clearance-pay.com within 24 hours.,dhl express duty tax unpaid shipment 99412 settle moneyamount online urllink 24 hours
+phishing,sms,Hot singles near you want to chat tonight! Verify your age with a credit card for free access at http://meet-local-tonight.biz,hot singles near want chat tonight verify age credit card free access urllink
+phishing,email,Stripe Payout Held: Your merchant account payouts are paused. Re-verify your bank credentials at http://stripe-merchant-verify.info,stripe payout held merchant account payouts paused reverify bank credentials urllink
+phishing,sms,"Final Reminder: Claim your government COVID relief grant of $2,500 before deadline. Submit SSN at http://gov-relief-grant-claim.org",final reminder claim government covid relief grant moneyamount deadline submit ssn urllink
+phishing,email,Bank of America: Your credit card was charged $499 at BestBuy. Click here to dispute immediately: http://bofa-dispute-center.com,bank america credit card charged moneyamount bestbuy click dispute immediately urllink
+phishing,sms,"Loan Approved! Get Rs 5,00,000 credited to your bank in 5 minutes. Click http://instant-loan-kyc.co and share Aadhaar OTP.",loan approved rs 500000 credited bank minutes click urllink share aadhaar otp
+phishing,chat,Hey I lost my wallet at the airport and my phone battery is dying! Please wire $300 to this account and I will pay you back tomorrow.,hey lost wallet airport phone battery dying wire moneyamount account pay tomorrow
+phishing,email,"GitHub Security Alert: A new SSH key was added to your account. If unauthorized, verify password at http://github-auth-recovery.com",github security alert new ssh key added account unauthorized verify password urllink
+phishing,sms,You won a free cruise to the Bahamas! Confirm reservation with your credit card details by calling +1-888-555-0144.,won free cruise bahamas confirm reservation credit card details calling phonenum
+phishing,email,Spotify Premium: Your family plan payment was declined. Re-enter card details to keep listening: http://spotify-billing-fix.com,spotify premium family plan payment declined reenter card details listening urllink
+phishing,sms,Verify your Venmo account immediately or pending balance of $420 will be forfeited: http://venmo-support-verify.net,verify venmo account immediately pending balance moneyamount forfeited urllink
+phishing,email,Coinbase Alert: Withdrawal of 1.4 BTC initiated. Cancel unauthorized transfer now at http://coinbase-cancel-withdrawal.com,coinbase alert withdrawal 14 btc initiated cancel unauthorized transfer urllink
+phishing,sms,Exclusive offer: Unlock unlimited 5G data free for 1 year! Enter your mobile OTP at http://free-5g-promo-claim.in,exclusive offer unlock unlimited 5g data free year enter mobile otp urllink
+phishing,email,FedEx HR: Offer letter attached. Confirm your bank account for payroll setup using http://payroll-onboarding-verify.com,fedex hr offer letter attached confirm bank account payroll setup using urllink
+phishing,sms,Attention: Your PAN card is linked to fraudulent activity. Call our officer immediately on +91-9876500112 to avoid arrest.,attention pan card linked fraudulent activity officer immediately phonenum avoid arrest
+phishing,email,Instagram Copyright Violation: Your account will be permanently deleted in 24 hours unless you appeal at http://ig-copyright-appeal.co,instagram copyright violation account permanently deleted 24 hours unless appeal urllink
+phishing,sms,Claim your free $500 Amazon shopping voucher! Answer 3 quick questions at http://amz-voucher-win.xyz,claim free moneyamount amazon shopping voucher answer quick questions urllink
+phishing,email,"American Express: Suspicious login blocked. Verify your card number, expiry date, and security code at http://amex-verify-card.info",american express suspicious login blocked verify card number expiry date security code urllink
+phishing,sms,Your Jio number has won Rs 25 Lakh in KBC lucky draw! Contact lottery manager on WhatsApp +91-9000012345.,jio number won rs 25 lakh kbc lucky draw contact lottery manager whatsapp phonenum
+phishing,chat,Bro check out this leaked video of you lol click fast before they delete it http://video-clip-view-login.com,bro check leaked video lol click fast delete urllink
+phishing,email,Adobe Creative Cloud: License expired. Download the security patch and enter your credentials at http://adobe-license-renew.biz,adobe creative cloud license expired download security patch enter credentials urllink
+phishing,sms,Urgent Medicare Update: Your new plastic Medicare card is ready. Confirm your Medicare ID and bank info at http://medicare-card-claim.org,urgent medicare update new plastic medicare card ready confirm medicare id bank info urllink
+phishing,email,Meta Business Support: Your ad account is restricted. Confirm identity and password within 12 hours at http://meta-ads-appeal.co,meta business support ad account restricted confirm identity password 12 hours urllink
+phishing,sms,Your parcel from Royal Mail is awaiting a £1.99 redelivery fee. Pay securely at http://royalmail-fee-pay.com,parcel royal mail awaiting moneyamount redelivery fee pay securely urllink
+phishing,email,Norton Antivirus Auto-Renewal: $399.99 charged to your account. Call +1-855-555-0177 immediately to cancel and get a refund.,norton antivirus autorenewal moneyamount charged account phonenum immediately cancel refund
+phishing,sms,Special investment tip: Guaranteed 30% weekly profit in forex trading! Join our VIP Telegram group and deposit $100 today.,special investment tip guaranteed 30 weekly profit forex trading join vip telegram group deposit moneyamount today
+phishing,email,Slack Workspace Admin: Your session has expired. Re-authenticate your workspace password at http://slack-sso-reauth.com,slack workspace admin session expired reauthenticate workspace password urllink
+phishing,sms,Notice from Income Tax Department: Refund pending verification. Click http://incometax-refund-portal.co and enter ATM PIN.,notice income tax department refund pending verification click urllink enter atm pin
+phishing,email,Steam Guard: Someone wants to trade a rare item worth $800 with you. Log in to accept at http://steamcommunitty-trade.com,steam guard wants trade rare item worth moneyamount log accept urllink
+phishing,sms,Your debit card rewards worth $185 expire tonight! Tap http://card-rewards-redeem.biz to transfer to bank.,debit card rewards worth moneyamount expire tonight tap urllink transfer bank
+phishing,email,Costco Member Services: You are eligible for a free $100 membership reward. Complete verification at http://costco-reward-survey.info,costco member services eligible free moneyamount membership reward complete verification urllink
+phishing,sms,Warning: Virus detected on your Android device! Install security cleaner immediately from http://android-fix-shield.apk.co,warning virus detected android device install security cleaner immediately urllink
+phishing,chat,Hi! I'm recruiting part-time product reviewers for Amazon. Earn $80-$200/day liking products. Message me on Telegram to join.,hi im recruiting parttime product reviewers amazon earn moneyamount moneyamount day liking products message telegram join
+phishing,email,CitiBank Fraud Department: Confirm your identity to unlock your online banking profile at http://citibank-unlock-now.com,citibank fraud department confirm identity unlock online banking profile urllink
+phishing,sms,Last chance to claim your unclaimed airline compensation of $600! Enter card details at http://flight-claim-compensation.net,chance claim unclaimed airline compensation moneyamount enter card details urllink
+phishing,email,Outlook Web App: 7 incoming emails are quarantined due to server sync error. Release messages at http://owa-mail-release.com,outlook web app incoming emails quarantined server sync error release messages urllink
+phishing,sms,Your Fastag account is blacklisted due to low balance. Recharge immediately via http://fastag-kyc-recharge.in,fastag account blacklisted low balance recharge immediately urllink
+phishing,email,Binance Security: Your API key will be revoked unless you verify 2FA seed phrase at http://binance-security-portal.io,binance security api key revoked unless verify 2fa seed phrase urllink
+phishing,sms,Congratulations! You won a brand new MacBook Air in our anniversary draw. Pay $9.99 shipping at http://macbook-prize-claim.co,congratulations won brand new macbook air anniversary draw pay moneyamount shipping urllink
+phishing,email,UPS Delivery Exception: Signature required. Reschedule delivery and pay $3.50 fee at http://ups-reschedule-parcel.info,ups delivery exception signature required reschedule delivery pay moneyamount fee urllink
+phishing,sms,Urgent: Your SIM card will be deactivated in 2 hours. Call +91-9988776655 and share the 6-digit OTP sent to your phone.,urgent sim card deactivated hours phonenum share 6digit otp sent phone
+phishing,chat,Investor alert! Secret pre-IPO stock guaranteed to 10x next week. Wire funds today before allocation closes.,investor alert secret preipo stock guaranteed 10x week wire funds today allocation closes
+phishing,email,Dropbox Fax: You received a 4-page confidential legal notice. Open document by signing in at http://efax-secure-viewer.com,dropbox fax received 4page confidential legal notice open document signing urllink
+phishing,sms,Your health insurance policy has lapsed. Pay renewal premium immediately at http://health-policy-renew-fast.com,health insurance policy lapsed pay renewal premium immediately urllink
+phishing,email,PayPal Resolution Center: A buyer opened a $750 dispute against you. Log in at http://paypal-resolution-case.com to respond.,paypal resolution center buyer opened moneyamount dispute log urllink respond
+legitimate,sms,"Hey, are we still meeting at the coffee shop around 4:30 PM today?",hey meeting coffee shop 430 pm today
+legitimate,email,"Hi team, please find the updated Q3 project timeline attached. Let me know if you have any feedback before Friday's standup.",hi team updated q3 project timeline attached let know feedback fridays standup
+legitimate,sms,Your dentist appointment with Dr. Sharma is confirmed for tomorrow at 10:15 AM. Reply C to confirm or call the clinic to reschedule.,dentist appointment dr sharma confirmed tomorrow 1015 reply confirm clinic reschedule
+legitimate,email,Thank you for your order #48219. Your books have shipped and are expected to arrive on Thursday via standard delivery.,thank order 48219 books shipped expected arrive thursday standard delivery
+legitimate,sms,"Your one-time verification code is 482910. Never share this code with anyone, including bank employees.",onetime verification code 482910 never share code including bank employees
+legitimate,chat,Hey! Can you send me the slides from today's machine learning lecture when you get a chance?,hey send slides todays machine learning lecture chance
+legitimate,email,Reminder: The weekly engineering sync has been moved from Room 302 to Conference Room B at 2:00 PM.,reminder weekly engineering sync moved room 302 conference room 200 pm
+legitimate,sms,"Hi Mom, I reached the hostel safely. Will call you after dinner tonight!",hi mom reached hostel safely dinner tonight
+legitimate,email,Your monthly electricity statement for October is ready. You can view it anytime by logging into your official utility portal.,monthly electricity statement october ready view anytime logging official utility portal
+legitimate,sms,Happy birthday! Wishing you a wonderful year ahead filled with health and happiness.,happy birthday wishing wonderful year ahead filled health happiness
+legitimate,chat,I pushed the bug fix to the feature branch. Could you review the pull request before 5 PM?,pushed bug fix feature branch review pull request pm
+legitimate,email,Welcome to our Python Data Science newsletter! Here are five tutorials on scikit-learn and feature engineering this week.,welcome python data science newsletter tutorials scikitlearn feature engineering week
+legitimate,sms,"Your cab will arrive in 4 minutes. Vehicle number KA-01-AB-1234, driver Ramesh.",cab arrive minutes vehicle number ka01ab1234 driver ramesh
+legitimate,email,"Hi Manoj, thanks for submitting your assignment on time. Grades will be posted on the university portal next Monday.",hi manoj thanks submitting assignment time grades posted university portal monday
+legitimate,sms,Don't forget to pick up milk and bread on your way home.,dont forget pick milk bread way home
+legitimate,chat,Lunch at the cafeteria at 1 PM? Sarah and Alex are joining too.,lunch cafeteria pm sarah alex joining
+legitimate,email,Receipt for your payment of $24.00 to City Library. No further action is required from your side.,receipt payment moneyamount city library no action required
+legitimate,sms,Your parcel was delivered to your front porch at 2:14 PM today.,parcel delivered porch 214 pm today
+legitimate,email,"Dear student, the library will close early at 6:00 PM this Friday due to scheduled maintenance.",dear student library close early 600 pm friday scheduled maintenance
+legitimate,sms,"Sorry I missed your call, I was in a meeting. Let's talk in 20 minutes.",sorry missed meeting lets talk 20 minutes
+legitimate,chat,Did you finish testing the Naive Bayes classifier on the validation split?,did finish testing naive bayes classifier validation split
+legitimate,email,Your flight AI-502 from Bengaluru to Delhi is on schedule. Boarding begins at Gate 12 at 6:40 AM.,flight ai502 bengaluru delhi schedule boarding begins gate 12 640
+legitimate,sms,Pharmacy alert: Your prescription is ready for pickup during regular store hours.,pharmacy alert prescription ready pickup regular store hours
+legitimate,email,"Hi everyone, please remember to fill out the anonymous course feedback survey before the semester ends.",hi remember anonymous course feedback survey semester ends
+legitimate,sms,Running 10 minutes late because of traffic on MG Road. See you soon!,running 10 minutes late traffic mg road soon
+legitimate,chat,"Thanks for helping me debug the Flask server earlier, everything runs smoothly now.",thanks helping debug flask server earlier runs smoothly
+legitimate,email,Summary of your monthly savings account statement is now available inside your mobile banking app.,summary monthly savings account statement available inside mobile banking app
+legitimate,sms,Happy Diwali to you and your family! Hope you have a joyful celebration.,happy diwali family hope joyful celebration
+legitimate,email,"Invitation: Machine Learning Workshop on NLP and Cybersecurity, Saturday 11:00 AM in Auditorium Hall 1.",invitation machine learning workshop nlp cybersecurity saturday 1100 auditorium hall
+legitimate,sms,Your gym membership has been renewed for the month as per your auto-pay schedule.,gym membership renewed month autopay schedule
+legitimate,chat,Can we reschedule our study group session to Sunday morning at 10 AM?,reschedule study group session sunday morning 10
+legitimate,email,"Hi Alex, I reviewed the budget spreadsheet and approved the travel reimbursement. Finance will process it next cycle.",hi alex reviewed budget spreadsheet approved travel reimbursement finance process cycle
+legitimate,sms,Weather alert: Heavy rain expected in your area this evening. Plan your commute accordingly.,weather alert heavy rain expected area evening plan commute accordingly
+legitimate,email,Thank you for attending our webinar on Responsible AI. Recording slides are available in your learner dashboard.,thank attending webinar responsible ai recording slides available learner dashboard
+legitimate,sms,"Hey, what time does the movie start tonight? Should I book tickets for the 7 PM show?",hey time does movie start tonight book tickets pm
+legitimate,chat,I uploaded the cleaned CSV file to our shared Google Drive folder.,uploaded cleaned csv file shared google drive folder
+legitimate,email,"Notification: Your password was successfully changed from your registered laptop. If this was you, no action is needed.",notification password successfully changed registered laptop no action needed
+legitimate,sms,Your internet broadband plan bill of Rs 799 was paid successfully. Thank you for your payment.,internet broadband plan rs 799 paid successfully thank payment
+legitimate,email,"Hi team, please submit your leave requests for December before the 25th so we can plan sprint capacity.",hi team submit leave requests december 25th plan sprint capacity
+legitimate,sms,Meet me near the main gate after the seminar ends.,meet near main gate seminar ends
+legitimate,chat,Do you want to practice the project presentation slides together tomorrow afternoon?,want practice project presentation slides tomorrow afternoon
+legitimate,email,Confirming your hotel reservation for Nov 14 to Nov 16. Check-in starts at 2:00 PM.,confirming hotel reservation nov 14 nov 16 checkin starts 200 pm
+legitimate,sms,"Bank info: Rs 1,250.00 debited via UPI at Metro Supermarket. Available balance is Rs 14,320.50.",bank info rs 125000 debited upi metro supermarket available balance rs 1432050
+legitimate,email,"Dear member, our annual alumni meetup will take place next month. Check the alumni portal for event details.",dear member annual alumni meetup place month check alumni portal event details
+legitimate,sms,Just checking in to see how your interview went today!,just checking interview went today
+legitimate,chat,Let's grab dinner after we finish writing the unit tests.,lets grab dinner finish writing unit tests
+legitimate,email,Your open-source pull request #142 was merged into main. Thanks for contributing!,opensource pull request 142 merged main thanks contributing
+legitimate,sms,Bus #214 is arriving at Central Station in 6 minutes.,bus 214 arriving central station minutes
+legitimate,email,Minutes of today's project review meeting are saved in the shared Confluence space.,minutes todays project review meeting saved shared confluence space
+legitimate,sms,Please bring your college ID card for tomorrow's lab examination.,bring college id card tomorrows lab examination
+legitimate,chat,Are you free for a quick 10-minute call to align on the API response format?,free quick 10minute align api response format
+legitimate,email,Your yearly software subscription receipt is attached for your accounting records.,yearly software subscription receipt attached accounting records
+legitimate,sms,Good morning! Have a productive day ahead.,good morning productive day ahead
+legitimate,email,"Hi Priya, could you share the confusion matrix numbers from your latest experiment?",hi priya share confusion matrix numbers latest experiment
+legitimate,sms,Table for 4 confirmed at Spice Garden tonight at 8:00 PM.,table confirmed spice garden tonight 800 pm
+legitimate,chat,I'm heading to the library to read a few papers on phishing detection.,im heading library read papers phishing detection
+legitimate,email,System update completed successfully. Your workstation will restart at midnight if idle.,update completed successfully workstation restart midnight idle
+legitimate,sms,Can you pick up my parcel from the security desk when you come upstairs?,pick parcel security desk come upstairs
+legitimate,email,Welcome to the Hackathon! Team check-in opens at 9:00 AM sharp in the main atrium.,welcome hackathon team checkin opens 900 sharp main atrium
+legitimate,sms,Your blood test report is ready for collection at the diagnostic center.,blood test report ready collection diagnostic center
+legitimate,chat,"Sure, I can help you review the README documentation tonight.",sure help review readme documentation tonight
+legitimate,email,Quarterly town hall slides and Q&A summary have been posted on the internal intranet.,quarterly town hall slides qa summary posted internal intranet
+legitimate,sms,Thanks for the birthday wishes! Let's catch up over the weekend.,thanks birthday wishes lets catch weekend
+legitimate,email,"Your train ticket PNR 4819203412 is confirmed for Coach B2, Seat 34.",train ticket pnr phonenum confirmed coach b2 seat 34
+legitimate,sms,"Remember to carry an umbrella, it looks cloudy outside.",remember carry umbrella looks cloudy outside
+legitimate,chat,Nice work on getting 95% accuracy on the validation set!,nice work getting 95 accuracy validation set
+legitimate,email,"Hi Jordan, your reimbursement claim for conference registration has been approved.",hi jordan reimbursement claim conference registration approved
+legitimate,sms,Your laundry order is ready for pickup at the shop.,laundry order ready pickup shop
+legitimate,email,Reminder: Please renew your library books before Friday to avoid late fees.,reminder renew library books friday avoid late fees
+legitimate,sms,"Got your email, I will reply with the updated numbers after lunch.",got email reply updated numbers lunch
+legitimate,chat,Let's meet at the basketball court at 5:30 PM.,lets meet basketball court 530 pm
+legitimate,email,Thank you for donating to the community food drive. Your tax receipt is available in your donor account.,thank donating community food drive tax receipt available donor account
+legitimate,sms,Your flight check-in is now open in the official airline mobile app.,flight checkin open official airline mobile app
+legitimate,email,"Hi team, the database migration finished with zero downtime. Monitoring dashboards look green.",hi team database migration finished zero downtime monitoring dashboards look green
+legitimate,sms,I left the notebook on your desk before leaving.,left notebook desk leaving
+legitimate,chat,Could you double-check the requirements.txt file to make sure all package versions match?,doublecheck requirementstxt file make sure package versions match
+legitimate,email,Class schedule update: Friday's Computer Networks lab will be held in Lab 2 instead of Lab 1.,class schedule update fridays computer networks lab held lab instead lab
+legitimate,sms,Call me whenever you reach home.,reach home
+legitimate,email,Your monthly cloud usage invoice is $12.40 and will be billed automatically on the 1st.,monthly cloud usage invoice moneyamount billed automatically 1st
+legitimate,sms,Happy anniversary to both of you! Wishing you lots of happiness.,happy anniversary wishing lots happiness

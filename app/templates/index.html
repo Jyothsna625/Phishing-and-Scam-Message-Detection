@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Phishing &amp; Scam Message Detector</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+
+<body>
+  <div class="page-shell">
+    <header class="hero">
+      <div class="badge">NLP + Machine Learning Cybersecurity Tool</div>
+      <h1>Phishing &amp; Scam Message Detection</h1>
+      <p>
+        Paste any SMS, email, or chat message below to analyze it using Natural Language Processing
+        and trained classification models (Naive Bayes &amp; Logistic Regression).
+      </p>
+      {% if metadata and metadata.best_model %}
+      <div class="model-pill">
+        Active Model: <strong>{{ metadata.best_model }}</strong>
+        {% if metadata.metrics and metadata.best_model in metadata.metrics %}
+        &bull; Accuracy: <strong>{{ "%.1f"|format(metadata.metrics[metadata.best_model].accuracy * 100) }}%</strong>
+        &bull; F1 Score: <strong>{{ "%.1f"|format(metadata.metrics[metadata.best_model].f1_score * 100) }}%</strong>
+        {% endif %}
+      </div>
+      {% endif %}
+    </header>
+
+    <main class="card">
+      <form id="detector-form">
+        <label for="message-input" class="input-label">Enter Message to Inspect</label>
+        <textarea id="message-input" name="message" rows="5"
+          placeholder="Example: URGENT: Your bank account has been suspended. Verify your identity immediately at http://secure-bank-verify-login.com"
+          required></textarea>
+
+        <div class="samples-row">
+          <span class="samples-label">Try an example:</span>
+          <button type="button" class="sample-btn" data-sample="phishing-bank">Phishing SMS</button>
+          <button type="button" class="sample-btn" data-sample="phishing-prize">Prize Scam</button>
+          <button type="button" class="sample-btn" data-sample="legit-meeting">Legitimate Email</button>
+          <button type="button" class="sample-btn" data-sample="legit-otp">Legitimate Alert</button>
+        </div>
+
+        <div class="actions-row">
+          <button type="submit" id="analyze-btn" class="primary-btn">Analyze Message</button>
+          <button type="button" id="clear-btn" class="secondary-btn">Clear</button>
+        </div>
+      </form>
+
+      <section id="error-box" class="error-box hidden" role="alert"></section>
+
+      <section id="result-panel" class="result-panel hidden" aria-live="polite">
+        <div class="result-header">
+          <div>
+            <span class="result-caption">Classification Result</span>
+            <h2 id="result-title">--</h2>
+          </div>
+          <span id="risk-badge" class="risk-badge">Risk: --</span>
+        </div>
+
+        <div class="metrics-grid">
+          <div class="metric-card">
+            <span class="metric-label">Confidence</span>
+            <strong id="confidence-value">--%</strong>
+          </div>
+          <div class="metric-card">
+            <span class="metric-label">Phishing Probability</span>
+            <strong id="prob-value">--%</strong>
+          </div>
+          <div class="metric-card">
+            <span class="metric-label">Model Used</span>
+            <strong id="model-used">--</strong>
+          </div>
+        </div>
+
+        <div class="progress-wrapper">
+          <div class="progress-bar-bg">
+            <div id="prob-bar" class="progress-bar-fill"></div>
+          </div>
+        </div>
+
+        <div class="signals-section">
+          <h3>Detected Suspicious Signals</h3>
+          <ul id="signals-list" class="signals-list"></ul>
+        </div>
+
+        <div class="cleaned-section">
+          <h3>Preprocessed NLP Text</h3>
+          <code id="cleaned-text" class="cleaned-code"></code>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>
+        Built with Python, scikit-learn, TF-IDF, Naive Bayes, Logistic Regression, and Flask.
+        Always verify links and sender addresses independently before sharing sensitive data.
+      </p>
+    </footer>
+  </div>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+
+</html>

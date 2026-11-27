@@ -1,0 +1,71 @@
+{
+  "best_model": "Logistic Regression",
+  "models": {
+    "Naive Bayes": {
+      "accuracy": 0.875,
+      "precision": 0.8333,
+      "recall": 0.9375,
+      "f1_score": 0.8824,
+      "roc_auc": 0.9727,
+      "confusion_matrix": [
+        [
+          13,
+          3
+        ],
+        [
+          1,
+          15
+        ]
+      ],
+      "roc_curve": {
+        "fpr": [
+          0.0,
+          0.0,
+          0.0,
+          0.4375,
+          0.4375,
+          1.0
+        ],
+        "tpr": [
+          0.0,
+          0.0625,
+          0.9375,
+          0.9375,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    "Logistic Regression": {
+      "accuracy": 0.9688,
+      "precision": 0.9412,
+      "recall": 1.0,
+      "f1_score": 0.9697,
+      "roc_auc": 1.0,
+      "confusion_matrix": [
+        [
+          15,
+          1
+        ],
+        [
+          0,
+          16
+        ]
+      ],
+      "roc_curve": {
+        "fpr": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "tpr": [
+          0.0,
+          0.0625,
+          1.0,
+          1.0
+        ]
+      }
+    }
+  }
+}
